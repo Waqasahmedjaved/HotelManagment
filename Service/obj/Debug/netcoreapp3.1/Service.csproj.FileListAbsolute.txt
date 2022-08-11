@@ -1,0 +1,13 @@
+F:\Assigment\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+F:\Assigment\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assigment\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+F:\Assigment\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+F:\Assigment\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+F:\Assigment\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+F:\Assigment\Service\bin\Debug\netcoreapp3.1\Service.dll
+F:\Assigment\Service\bin\Debug\netcoreapp3.1\Service.pdb
+F:\Assigment\Service\bin\Debug\netcoreapp3.1\Entities.dll
+F:\Assigment\Service\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\Assigment\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+F:\Assigment\Service\obj\Debug\netcoreapp3.1\Service.dll
+F:\Assigment\Service\obj\Debug\netcoreapp3.1\Service.pdb
