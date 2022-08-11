@@ -170,7 +170,7 @@ namespace Service
             if (hotelList != null &&  request != null && !string.IsNullOrWhiteSpace(request.Location))
             {
 
-                hotelList = hotelList.Where(x => x.HotelName.Contains(request.Location)).ToList();
+                hotelList = hotelList.Where(x => x.Address.AddressLine1.Contains(request.Location)).ToList();
             }
 
             if (hotelList != null)
