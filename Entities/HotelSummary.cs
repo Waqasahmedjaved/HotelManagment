@@ -8,10 +8,11 @@ namespace Entities
     {
         public int HotelId { get; set; }
         public string HotelName { get; set; }
-        public string Location { get; set; }
+        public Address Address { get; set; }
         public List<Facilitate> Facilitaties { get; set; }
         public decimal PerNightRate { get; set; }
         public decimal OldPerNightRate { get; set; }
         public double Rating { get; set; }
+        public double Distance { get; set; }
     }
 }

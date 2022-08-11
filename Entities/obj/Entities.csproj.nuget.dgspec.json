@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Assigment\\Entities\\Entities.csproj": {}
+    "F:\\HotelManagmentAPI\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "F:\\Assigment\\Entities\\Entities.csproj": {
+    "F:\\HotelManagmentAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Assigment\\Entities\\Entities.csproj",
+        "projectUniqueName": "F:\\HotelManagmentAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "F:\\Assigment\\Entities\\Entities.csproj",
+        "projectPath": "F:\\HotelManagmentAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\",
-        "outputPath": "F:\\Assigment\\Entities\\obj\\",
+        "outputPath": "F:\\HotelManagmentAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WaqasAhmedJavaid\\AppData\\Roaming\\NuGet\\NuGet.Config",

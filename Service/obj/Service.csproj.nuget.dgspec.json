@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Assigment\\Service\\Service.csproj": {}
+    "F:\\HotelManagmentAPI\\Service\\Service.csproj": {}
   },
   "projects": {
-    "F:\\Assigment\\Entities\\Entities.csproj": {
+    "F:\\HotelManagmentAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Assigment\\Entities\\Entities.csproj",
+        "projectUniqueName": "F:\\HotelManagmentAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "F:\\Assigment\\Entities\\Entities.csproj",
+        "projectPath": "F:\\HotelManagmentAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\",
-        "outputPath": "F:\\Assigment\\Entities\\obj\\",
+        "outputPath": "F:\\HotelManagmentAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WaqasAhmedJavaid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "F:\\Assigment\\Service\\Service.csproj": {
+    "F:\\HotelManagmentAPI\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Assigment\\Service\\Service.csproj",
+        "projectUniqueName": "F:\\HotelManagmentAPI\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "F:\\Assigment\\Service\\Service.csproj",
+        "projectPath": "F:\\HotelManagmentAPI\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\WaqasAhmedJavaid\\.nuget\\packages\\",
-        "outputPath": "F:\\Assigment\\Service\\obj\\",
+        "outputPath": "F:\\HotelManagmentAPI\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WaqasAhmedJavaid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,8 +84,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\Assigment\\Entities\\Entities.csproj": {
-                "projectPath": "F:\\Assigment\\Entities\\Entities.csproj"
+              "F:\\HotelManagmentAPI\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\HotelManagmentAPI\\Entities\\Entities.csproj"
               }
             }
           }

@@ -7,10 +7,10 @@ namespace Service.Interface
 {
     public interface IHotelService
     {
-        List<HotelSummary> SearchHotel(HotelSearchRequest request);
+        Response<List<HotelSummary>> SearchHotel(HotelSearchRequest request);
 
-        HotelDetails HotelDetail(int hotelId);
+        Response<HotelDetails> HotelDetail(int hotelId);
 
-        HotelBookingResponse HotelBooking(HotelBookingRequest request);
+        Response<HotelBookingResponse> HotelBooking(HotelBookingRequest request);
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zo9hrhRqT08nKL4U0nlFFthiLd4sLTvPt0blX9SjfIwSLPjhtFsckcM1w1kj/jQLHwC7srNi/InoYXAiFtr+9A==",
+  "dgSpecHash": "jZsdyneU92adHNdAeeeaySa0orPTViscuDbsuHNlax7JWQeAVgfThvt2DL9hOd3e3NiiVZ12oUqTi6wH67u49A==",
   "success": true,
-  "projectFilePath": "F:\\Assigment\\Entities\\Entities.csproj",
+  "projectFilePath": "F:\\HotelManagmentAPI\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
